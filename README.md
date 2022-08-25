@@ -1,7 +1,5 @@
 # compile_time_dfs
 
-compile_time_dfs
-
 This is an awesome homework project that I've done during the winter term of MADE Big Data Academy (Mail.ru) in 2020.
 
 Depth first search using templates! 
